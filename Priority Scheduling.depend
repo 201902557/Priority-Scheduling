@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1682315545 source:c:\users\kkaym\onedrive\desktop\codeblocks projects\priority scheduling\main.cpp
+	<iostream>
+	<cmath>
+	<stdlib.h>
+	<windows.h>
+
